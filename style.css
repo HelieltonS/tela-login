@@ -16,7 +16,7 @@
 }
 
 main {
-    background-color: var(--cor1);
+    background-color: var(--cor2);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -66,10 +66,10 @@ main {
 }
 
 .card-login {
-    box-shadow: 0px 0px 50px var(--cor4);
+    box-shadow: 0px 0px 50px var(--cor5);
     border-radius: 20px;
     height: 50%;
-    background-color: var(--cor3);
+    background-color: var(--cor4);
     display: flex;
     align-items: center;
     justify-content: center;
